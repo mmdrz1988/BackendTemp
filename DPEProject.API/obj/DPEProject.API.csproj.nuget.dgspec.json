@@ -1,0 +1,491 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\DPEProject.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\DPEProject.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\DPEProject.API.csproj",
+        "projectName": "DPEProject.API",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\DPEProject.API.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\DPEprojectTask.Application.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\DPEprojectTask.Application.csproj"
+              },
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj"
+              },
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\DPETasks.FileService.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\DPETasks.FileService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\DPEprojectTask.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\DPEprojectTask.Application.csproj",
+        "projectName": "DPEprojectTask.Application",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\DPEprojectTask.Application.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj"
+              },
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj",
+        "projectName": "DPEprojectTask.Domain",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj",
+        "projectName": "DPEprojectTask.Infrastructure",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\DPEprojectTask.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj",
+        "projectName": "DPETasks.Core.Common",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEprojectTask.Domain\\DPEprojectTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.1.34, )"
+            },
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\DPETasks.FileService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\DPETasks.FileService.csproj",
+        "projectName": "DPETasks.FileService",
+        "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\DPETasks.FileService.csproj",
+        "packagesPath": "C:\\Users\\mmdr.sasani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.FileService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mmdr.sasani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPETasks.Core.Common\\DPETasks.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.DependencyValidation.Analyzers": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "System.IO.Abstractions": {
+              "target": "Package",
+              "version": "[19.2.69, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

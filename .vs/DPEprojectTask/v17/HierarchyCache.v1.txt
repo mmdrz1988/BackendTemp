@@ -1,0 +1,1015 @@
+﻿++Solution 'DPEprojectTask' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:DPEprojectTask.sln
+++DPEprojectTask.Application
+i:{00000000-0000-0000-0000-000000000000}:DPEprojectTask.Application
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\dpeprojecttask.application.csproj
+++Dependencies
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:>714
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:>716
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1530
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:>715
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:>713
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:>717
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1279
+++Contracts
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\contracts\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\contracts\
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\contracts\
+++EventHandlers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\eventhandlers\
+++Extensions
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\extensions\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\extensions\
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\extensions\
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\extensions\
+++ServiceRegistrationExtensions.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\extensions\serviceregistrationextensions.cs
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\extensions\serviceregistrationextensions.cs
+++Factories
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\factories\
+++AddProductCommandFactory.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\factories\addproductcommandfactory.cs
+++Handlers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\
+++IServices
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\iservices\
+++Model
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\model\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\
+++Services
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\services\
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\services\
+++Analyzers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:analyzers
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:analyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:analyzers
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:analyzers
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:analyzers
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:analyzers
+i:{2807841c-402c-4b64-9730-5504909e241f}:analyzers
+++Frameworks
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:frameworks
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:frameworks
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:frameworks
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:frameworks
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:frameworks
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:frameworks
+i:{2807841c-402c-4b64-9730-5504909e241f}:frameworks
+++Packages
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:packages
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:packages
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:packages
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:packages
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:packages
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:packages
+i:{2807841c-402c-4b64-9730-5504909e241f}:packages
+++Projects
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:projects
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:projects
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:projects
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:projects
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:projects
+i:{2807841c-402c-4b64-9730-5504909e241f}:projects
+++IAddProductCommandFactory.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\contracts\iaddproductcommandfactory.cs
+++Orders
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\eventhandlers\orders\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\orders\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\orders\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\domainevent\orders\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\orders\
+++OrderHandler
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\orderhandler\
+++ProductHandler
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\producthandler\
+++IProductService.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\iservices\iproductservice.cs
+++AddProductModel.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\model\addproductmodel.cs
+++ProductService.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\services\productservice.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.DependencyValidation.Analyzers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\.nuget\packages\microsoft.dependencyvalidation.analyzers\0.11.0\analyzers\dotnet\microsoft.dependencyvalidation.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.22\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.23\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\microsoft.netcore.app
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\microsoft.netcore.app
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\microsoft.netcore.app
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\microsoft.netcore.app
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\microsoft.netcore.app
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\microsoft.netcore.app
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.domain.unittests\microsoft.netcore.app
+++MediatR (12.1.1)
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:>1540
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:>1598
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1613
+++Microsoft.DependencyValidation.Analyzers (0.11.0)
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:>1539
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:>1596
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1610
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:>1573
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:>1586
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:>1554
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1563
+++DPEprojectTask.Infrastructure
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\dpeprojecttask.infrastructure.csproj
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\dpeprojecttask.infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:DPEprojectTask.Infrastructure
+++DPETasks.Core.Common
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\dpetasks.core.common.csproj
+i:{00000000-0000-0000-0000-000000000000}:DPETasks.Core.Common
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\dpetasks.core.common.csproj
+++OrderAddedEventHandler.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\eventhandlers\orders\orderaddedeventhandler.cs
+++AddOrderCommandHandler.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\orderhandler\addordercommandhandler.cs
+++AddProductHandler.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\producthandler\addproducthandler.cs
+++DeleteProductCommandHandler.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\producthandler\deleteproductcommandhandler.cs
+++UpdateProductCommandHandler.cs
+i:{9363f787-dda0-4e16-bf37-39ffcb1c0983}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.application\handlers\producthandler\updateproductcommandhandler.cs
+++DPEprojectTask.Domain
+i:{00000000-0000-0000-0000-000000000000}:DPEprojectTask.Domain
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\dpeprojecttask.domain.csproj
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\dpeprojecttask.domain.csproj
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\dpeprojecttask.domain.csproj
+++Commands
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\
+++Products
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\products\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\products\
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\
+++AddProductCommand.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\products\addproductcommand.cs
+++DeleteProductCommand.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\products\deleteproductcommand.cs
+++UpdateProductCommand.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\products\updateproductcommand.cs
+++CommandsResults
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\
+++DomainEvent
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\domainevent\
+++Exceptions
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\exceptions\
+++ExceptionBase.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\exceptions\exceptionbase.cs
+++UpdatedPriceCanNotBeMoreThanTenPercentException.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\exceptions\updatedpricecannotbemorethantenpercentexception.cs
+++VisibleProductCannotBeDeletedException.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\exceptions\visibleproductcannotbedeletedexception.cs
+++Entity.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\entity.cs
+++AddOrderCommand.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commands\orders\addordercommand.cs
+++IOrderRepository.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\contracts\iorderrepository.cs
+++IProductRepository.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\contracts\iproductrepository.cs
+++IUserRepository.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\contracts\iuserrepository.cs
+++Tags
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\tags\
+++Users
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\users\
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.22)
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:>1599
+++Microsoft.EntityFrameworkCore.Design (6.0.22)
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:>1597
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1611
+++AddOrderResult.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\orders\addorderresult.cs
+++AddProductResult.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\products\addproductresult.cs
+++DeleteProductResult.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\products\deleteproductresult.cs
+++UpdateProductResult.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\commandsresults\products\updateproductresult.cs
+++OrderAddedEvent.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\domainevent\orders\orderaddedevent.cs
+++Order.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\orders\order.cs
+++OrderItem.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\orders\orderitem.cs
+++Comment.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\comment.cs
+++Product.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\product.cs
+++ProductCategory.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\productcategory.cs
+++ProductRate.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\productrate.cs
+++ProductTag.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\products\producttag.cs
+++Tag.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\tags\tag.cs
+++CustomIdentityUser.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\users\customidentityuser.cs
+++UserTag.cs
+i:{6d39987e-1fe7-466f-9ad2-33f1316f0c16}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.domain\model\users\usertag.cs
+++DPEProject.API
+i:{00000000-0000-0000-0000-000000000000}:DPEProject.API
+++Connected Services 
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1531
+++Properties
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\properties\
+++Controllers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\controllers\
+++OrderController.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\controllers\ordercontroller.cs
+++ProductController.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\controllers\weatherforecastcontroller.cs
+++ServiceCollectionExtensions.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\extensions\servicecollectionextensions.cs
+++WebApplicationExtensions.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\extensions\webapplicationextensions.cs
+++Uploads
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\uploads\
+++Capture.PNG
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\uploads\capture.png
+++appsettings.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\appsettings.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\appsettings.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\appsettings.json
+++Program.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\program.cs
+++WeatherForecast.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\weatherforecast.cs
+++No service dependencies discovered
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1532
+++launchSettings.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\properties\launchsettings.json
+++appsettings.Development.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\appsettings.development.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\appsettings.development.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.23\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\microsoft.aspnetcore.app
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\microsoft.aspnetcore.app
+++MediatR.Extensions.Microsoft.DependencyInjection (11.1.0)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1614
+++Swashbuckle.AspNetCore (6.5.0)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1612
+++DPETasks.FileService
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\dpetasks.fileservice.csproj
+i:{00000000-0000-0000-0000-000000000000}:DPETasks.FileService
+++IProductImageService.cs
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\contracts\iproductimageservice.cs
+++ViewModels
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\viewmodels\
+++AddProductCommandModel.cs
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.core.common\viewmodels\addproductcommandmodel.cs
+++Microsoft.AspNetCore.Http (2.1.34)
+i:{306d70cc-e838-48ea-b935-b7b6fc55e2b4}:>1574
+++ProductImageService.cs
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.fileservice\services\productimageservice.cs
+++System.IO.Abstractions (19.2.69)
+i:{2ad6e4f8-670c-4319-858c-1c5ecb718762}:>1587
+++DbContexts
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\dbcontexts\
+++Migrations
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\migrations\
+++Repositories
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\repositories\
+++AppDbContext.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\dbcontexts\appdbcontext.cs
+++MediatorExtension.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\extensions\mediatorextension.cs
+++20231010122426_init.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\migrations\20231010122426_init.cs
+++AppDbContextModelSnapshot.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\migrations\appdbcontextmodelsnapshot.cs
+++OrderRepository.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\repositories\orderrepository.cs
+++ProductRepository.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\repositories\productrepository.cs
+++UserRepository.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\repositories\userrepository.cs
+++Microsoft.EntityFrameworkCore (6.0.22)
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:>1552
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.22)
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:>1553
+++Microsoft.EntityFrameworkCore.Tools (6.0.22)
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:>1555
+++20231010122426_init.Designer.cs
+i:{85a9f631-7e7d-4ee4-a0eb-083a67313bbe}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeprojecttask.infrastructure\migrations\20231010122426_init.designer.cs
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++DPETasks.Domain.UnitTests
+i:{e10e686d-ab23-4f5c-95b9-70e71a437341}:DPETasks.Domain.UnitTests
+++OrderTest.cs
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.domain.unittests\ordertest.cs
+++Usings.cs
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpetasks.domain.unittests\usings.cs
+++xunit.analyzers
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\.nuget\packages\xunit.analyzers\1.3.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++xunit.analyzers.fixes
+i:{2807841c-402c-4b64-9730-5504909e241f}:c:\users\mmdr.sasani\.nuget\packages\xunit.analyzers\1.3.0\analyzers\dotnet\cs\xunit.analyzers.fixes.dll
+++coverlet.collector (3.1.2)
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1570
+++Microsoft.NET.Test.Sdk (17.1.0)
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1562
+++xunit (2.5.1)
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1565
+++xunit.runner.visualstudio (2.4.3)
+i:{2807841c-402c-4b64-9730-5504909e241f}:>1567
+++bin
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\
+++Debug
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\
+++Release
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\
+++net6.0
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\browser\lib\net6.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\
+++runtimes
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\
+++DPEProject.API.deps.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeproject.api.deps.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeproject.api.deps.json
+++DPEProject.API.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\ref\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\refint\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\ref\dpeproject.api.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\refint\dpeproject.api.dll
+++DPEProject.API.exe
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeproject.api.exe
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeproject.api.exe
+++DPEProject.API.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeproject.api.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeproject.api.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.pdb
+++DPEProject.API.runtimeconfig.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeproject.api.runtimeconfig.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeproject.api.runtimeconfig.json
+++DPEprojectTask.Application.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.application.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.application.dll
+++DPEprojectTask.Application.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.application.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.application.pdb
+++DPEprojectTask.Domain.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.domain.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.domain.dll
+++DPEprojectTask.Domain.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.domain.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.domain.pdb
+++DPEprojectTask.Infrastructure.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.infrastructure.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.infrastructure.dll
+++DPEprojectTask.Infrastructure.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpeprojecttask.infrastructure.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\dpeprojecttask.infrastructure.pdb
+++DPETasks.Core.Common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpetasks.core.common.dll
+++DPETasks.Core.Common.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpetasks.core.common.pdb
+++DPETasks.FileService.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpetasks.fileservice.dll
+++DPETasks.FileService.pdb
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\dpetasks.fileservice.pdb
+++Humanizer.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\humanizer.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\humanizer.dll
+++MediatR.Contracts.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\mediatr.contracts.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\mediatr.contracts.dll
+++MediatR.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\mediatr.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\mediatr.dll
+++MediatR.Extensions.Microsoft.DependencyInjection.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\mediatr.extensions.microsoft.dependencyinjection.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.Data.SqlClient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.data.sqlclient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.extensions.dependencyinjection.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identity.client.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.openapi.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.openapi.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\microsoft.win32.systemevents.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Configuration.ConfigurationManager.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.configuration.configurationmanager.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.diagnostics.diagnosticsource.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.diagnostics.diagnosticsource.dll
+++System.Drawing.Common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.drawing.common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.drawing.common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.identitymodel.tokens.jwt.dll
+++System.IO.Abstractions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.io.abstractions.dll
+++System.Runtime.Caching.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.runtime.caching.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.runtime.caching.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.security.cryptography.protecteddata.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.security.permissions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\system.windows.extensions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\system.windows.extensions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++TestableIO.System.IO.Abstractions.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\testableio.system.io.abstractions.dll
+++TestableIO.System.IO.Abstractions.Wrappers.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\testableio.system.io.abstractions.wrappers.dll
+++browser
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\browser\
+++unix
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\
+++win
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\
+++win-arm
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm\
+++win-arm64
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm64\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm64\
+++win-x64
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x64\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x64\
+++win-x86
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x86\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x86\
+++lib
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\browser\lib\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\lib\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\lib\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\
+++native
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x64\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x86\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm64\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x64\native\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x86\native\
+++netcoreapp3.0
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\bin\release\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++obj
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\
+++DPEProject.API.csproj.nuget.dgspec.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\dpeproject.api.csproj.nuget.dgspec.json
+++DPEProject.API.csproj.nuget.g.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\dpeproject.api.csproj.nuget.g.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\dpeproject.api.csproj.nuget.g.props
+++DPEProject.API.csproj.nuget.g.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\dpeproject.api.csproj.nuget.g.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\dpeproject.api.csproj.nuget.g.targets
+++project.assets.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\project.assets.json
+++project.nuget.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\staticwebassets.pack.sentinel
+++ref
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\ref\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\ref\
+++refint
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\refint\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\refint\
+++staticwebassets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\staticwebassets\
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\apphost.exe
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\apphost.exe
+++DPEProject.API.AssemblyInfo.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.assemblyinfo.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.assemblyinfo.cs
+++DPEProject.API.AssemblyInfoInputs.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.assemblyinfoinputs.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.assemblyinfoinputs.cache
+++DPEProject.API.assets.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.assets.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.assets.cache
+++DPEProject.API.csproj.AssemblyReference.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.csproj.assemblyreference.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.csproj.assemblyreference.cache
+++DPEProject.API.csproj.BuildWithSkipAnalyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.csproj.buildwithskipanalyzers
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.csproj.buildwithskipanalyzers
+++DPEProject.API.csproj.CopyComplete
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.csproj.copycomplete
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.csproj.copycomplete
+++DPEProject.API.csproj.CoreCompileInputs.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.csproj.corecompileinputs.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.csproj.corecompileinputs.cache
+++DPEProject.API.csproj.FileListAbsolute.txt
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.csproj.filelistabsolute.txt
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.csproj.filelistabsolute.txt
+++DPEProject.API.GeneratedMSBuildEditorConfig.editorconfig
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.generatedmsbuildeditorconfig.editorconfig
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.generatedmsbuildeditorconfig.editorconfig
+++DPEProject.API.genruntimeconfig.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.genruntimeconfig.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.genruntimeconfig.cache
+++DPEProject.API.GlobalUsings.g.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.globalusings.g.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.globalusings.g.cs
+++DPEProject.API.MvcApplicationPartsAssemblyInfo.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.mvcapplicationpartsassemblyinfo.cache
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.mvcapplicationpartsassemblyinfo.cache
+++DPEProject.API.MvcApplicationPartsAssemblyInfo.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\dpeproject.api.mvcapplicationpartsassemblyinfo.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\dpeproject.api.mvcapplicationpartsassemblyinfo.cs
+++staticwebassets.build.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\debug\net6.0\staticwebassets.build.json
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\obj\release\net6.0\staticwebassets.build.json
+++Imports
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:>1672
+++Sdk.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.415\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.LiveUnitTesting.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.liveunittesting.props
+++Microsoft.NuGet.ImportBefore.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\swashbuckle.aspnetcore\6.5.0\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore\6.0.22\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.entityframeworkcore.design\6.0.22\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten)
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\dotnet\sdk\6.0.415\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.LiveUnitTesting.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importbefore\microsoft.liveunittesting.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++DPEProject.API.csproj.user
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\dpeproject.api.csproj.user
+++Microsoft.NET.props
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.QualityTools.Testing.Fakes.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.qualitytools.testing.fakes.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.QualityTools.Testing.Fakes.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\fakes\microsoft.qualitytools.testing.fakes.targets
+++Microsoft.Web.IISSupport.targets
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Startup.cs
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\startup.cs
+++NewFolder
+++ProduceImage
+i:{8e7f9b3f-626d-41af-a707-ce17feaccbbc}:c:\users\mmdr.sasani\source\repos\dpeprojecttask\dpeproject.api\uploads\produceimage\

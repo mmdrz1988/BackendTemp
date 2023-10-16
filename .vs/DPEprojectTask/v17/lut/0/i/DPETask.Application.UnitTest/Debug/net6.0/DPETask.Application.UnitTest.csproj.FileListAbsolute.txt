@@ -1,0 +1,5 @@
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\b\DPETask.Application.UnitTest\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPETask.Application.UnitTest\Debug\net6.0\DPETask.Application.UnitTest.csproj.AssemblyReference.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPETask.Application.UnitTest\Debug\net6.0\DPETask.Application.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPETask.Application.UnitTest\Debug\net6.0\DPETask.Application.UnitTest.AssemblyInfoInputs.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPETask.Application.UnitTest\Debug\net6.0\DPETask.Application.UnitTest.AssemblyInfo.cs

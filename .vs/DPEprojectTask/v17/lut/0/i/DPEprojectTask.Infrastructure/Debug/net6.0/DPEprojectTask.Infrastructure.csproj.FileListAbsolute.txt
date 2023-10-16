@@ -1,0 +1,12 @@
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\b\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.deps.json
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\b\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.runtimeconfig.json
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\b\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.AssemblyInfo.cs
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.csproj.CopyComplete
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\refint\DPEprojectTask.Infrastructure.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\DPEprojectTask.Infrastructure.genruntimeconfig.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\.vs\DPEprojectTask\v17\lut\0\i\DPEprojectTask.Infrastructure\Debug\net6.0\ref\DPEprojectTask.Infrastructure.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "NNplyAfwiCQqbPHMKs10yUZd57UKJSrsyPFIKoFp+AU=",
+  "Source": "DPEProject.API",
+  "BasePath": "_content/DPEProject.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DPEProject.API\\wwwroot",
+      "Source": "DPEProject.API",
+      "ContentRoot": "C:\\Users\\mmdr.sasani\\source\\repos\\DPEprojectTask\\DPEProject.API\\wwwroot\\",
+      "BasePath": "_content/DPEProject.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

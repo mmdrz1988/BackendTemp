@@ -1,0 +1,14 @@
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\bin\Release\net6.0\DPEprojectTask.Domain.deps.json
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\bin\Release\net6.0\DPEprojectTask.Domain.runtimeconfig.json
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\bin\Release\net6.0\DPEprojectTask.Domain.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\bin\Release\net6.0\DPEprojectTask.Domain.pdb
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.csproj.AssemblyReference.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.AssemblyInfoInputs.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.AssemblyInfo.cs
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\refint\DPEprojectTask.Domain.dll
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.pdb
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\DPEprojectTask.Domain.genruntimeconfig.cache
+C:\Users\mmdr.sasani\source\repos\DPEprojectTask\DPEprojectTask.Domain\obj\Release\net6.0\ref\DPEprojectTask.Domain.dll
