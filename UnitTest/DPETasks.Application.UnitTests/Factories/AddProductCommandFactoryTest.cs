@@ -26,6 +26,7 @@ namespace DPETasks.Application.UnitTests.Factories
         [Fact]
         public async void Should_UploadImagePath_WhenFileSaved()
         {
+            // test
             byte[] filebytes = Encoding.UTF8.GetBytes("dummy image");
             IFormFile file = new FormFile(new MemoryStream(filebytes), 0, filebytes.Length, "Data", "image.png");
             var addProductCommmandFactory = await _addProductCommandFactory.CreateAsync(new AddProductCommandModel()
